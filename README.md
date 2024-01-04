@@ -4,7 +4,7 @@ This repository contains the project for the Pattern Recognition course during t
 
 ## Assignment Details
 
-The assignment details and requirements are provided in the accompanying PDF file. Please refer to the [PRML_Assignment 2023](/PRML_Assignment 2023.pdf) for a comprehensive understanding of the project goals and specifications.
+The assignment details and requirements are provided in the accompanying PDF file. Please refer to the [PRML_Assignment 2023](/PRML_Assignment_2023.pdf) for a comprehensive understanding of the project goals and specifications.
 
 ## Project Overview
 
